@@ -7,7 +7,7 @@ public class Necip {
 		System.out.println("My love");
 		System.out.println("Necip");
 		String a="Aysnnnn";
-		short t=8;
+		byte t=8;
 
 		System.out.println("Ayse");
     char a='a';
