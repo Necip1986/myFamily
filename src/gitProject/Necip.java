@@ -6,8 +6,7 @@ public class Necip {
 		
 		System.out.println("My love");
 		System.out.println("Necip");
-		System.out.println("Ayse");
-
+		String a="Aysnnnn";
 	}
 
 }
