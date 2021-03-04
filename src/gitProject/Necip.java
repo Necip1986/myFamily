@@ -10,6 +10,7 @@ public class Necip {
 		Int b=35;
 
 		System.out.println("Ayse");
+		System.out.println("necip");
 
 	}
 
