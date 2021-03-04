@@ -7,7 +7,7 @@ public class Necip {
 		System.out.println("My love");
 		System.out.println("Necip");
 		String a="Aysnnnn";
-		boolean=true;
+		long i=7;
 
 		System.out.println("Ayse");
     char a='a';
