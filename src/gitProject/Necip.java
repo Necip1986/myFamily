@@ -10,8 +10,9 @@ public class Necip {
 		int b=35;
 
 		System.out.println("Ayse");
-		char a='a';
-		
+    char a='a';
+		String okul="";
+
 
 	}
 
